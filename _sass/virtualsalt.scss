@@ -2,6 +2,13 @@
   font-size: smaller;
 }
 
+.pagination {
+  text-align: center;
+  font-size: smaller;
+  
+  &__impossible { visibility: hidden; }
+}
+
 .figure {
   &__content {
     color: black;
