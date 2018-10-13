@@ -1,5 +1,5 @@
 ---
-layout: narrative
+layout: figure
 ---
 
 **Parallelism** is recurrent syntactical similarity. Several parts of a sentence or several sentences are expressed similarly to show that the ideas in the parts or sentences are equal in importance. Parallelism also adds balance and rhythm and, most importantly, clarity to the sentence.
