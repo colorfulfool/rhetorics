@@ -1,3 +1,11 @@
 .introduction {
   font-size: smaller;
 }
+
+.figure {
+  &__content {
+    color: black;
+    
+    ul { list-style: disc; }
+  }
+}
