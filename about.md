@@ -1,18 +1,35 @@
 ---
 layout: page
 title: About
-permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+## A Preface of Quotations
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Whoever desires for his writings or himself, what none can reasonably condemn,the favor of mankind, must add grace to strength, and make his thoughts agreeable as well as useful. Many complain of neglect who never tried to attract regard. It cannot be expected that the patrons of science or virtue should be solicitous to discover excellencies which they who possess them shade and disguise. Few have abilities so much needed by the rest of the world as to be caressed on their own terms; and he that will not condescend to recommend himself by external embellishments must submit to the fate of just sentiments meanly expressed, and be ridiculed and forgotten before he is understood. --Samuel Johnson
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Men must be taught as if you taught them not; And things unknown propos'd as things forgot. --Alexander Pope
 
+Style in painting is the same as in writing, a power over materials, whether words or colors, by which conceptions or sentiments are conveyed. --Sir Joshua Reynolds
 
-[jekyll-organization]: https://github.com/jekyll
+Whereas, if after some preparatory grounds of speech by their certain forms got into memory, they were led to the praxis thereof in some chosen short book lessoned thoroughly to them, they might then forthwith proceed to learn the substance of good things, and arts in due order, which would bring the whole language quickly into their power. --John Milton
+
+## Introduction
+
+Good writing depends upon more than making a collection of statements worthy of belief, because writing is intended to be read by others, with minds different from your own. Your reader does not make the same mental connections you make; he does not see the world exactly as you see it; he is already flooded daily with thousands of statements demanding assent, yet which he knows or believes to be false, confused, or deceptive. If your writing is to get through to him--or even to be read and considered at all--it must be interesting, clear, persuasive, and memorable, so that he will pay attention to, understand, believe, and remember the ideas it communicates. To fulfill these requirements successfully, your work must have an appropriate and clear thesis, sufficient arguments and reasons supporting the thesis, a logical and progressive arrangement, and, importantly, an effective style.
+While style is probably best learned through wide reading, comprehensive analysis and thorough practice, much can be discovered about effective writing through the study of some of the common and traditional devices of style and arrangement. By learning, practicing, altering, and perfecting them, and by testing their effects and nuances for yourself, these devices will help you to express yourself better and also teach you to see the interrelatedness of form and meaning, and the psychology of syntax, metaphor, and diction both in your own writing and in the works of others.
+
+The rhetorical devices presented here generally fall into three categories: those involving emphasis, association, clarification, and focus; those involving physical organization, transition, and disposition or arrangement; and those involving decoration and variety. Sometimes a given device or trope will fall mainly into a single category, as for example an expletive is used mostly for emphasis; but more often the effects of a particular device are multiple, and a single one may operate in all three categories. Parallelism, for instance, helps to order, clarify, emphasize, and beautify a thought. Occasionally a device has certain effects not readily identifiable or explainable, so I have not always been able to say why or when certain ones are good or should be used. My recommendation is to practice them all and develop that sense in yourself which will tell you when and how to use them.
+
+Lots of practice and experimentation are necessary before you will feel really comfortable with these devices, but too much practice in a single paper will most assuredly be disastrous. A journal or notebook is the best place to experiment; when a device becomes second nature to you, and when it no longer appears false or affected--when indeed it becomes genuinely built in to your writing rather than added on--then it may make its formal appearance in a paper. Remember that rhetorical devices are aids to writing and not ends of writing; you have no obligation to toss one into every paragraph. Further, if used carelessly or excessively or too frequently, almost any one of these devices will probably seem affected, dull, awkward, or mechanical. But with a little care and skill, developed by practice, anyone can master them, and their use will add not just beauty and emphasis and effectiveness to your writing, but a kind of freedom of thought and expression you never imagined possible.
+
+Practice these; try them out. Do not worry if they sometimes ring false at first. Play with them--learn to manipulate and control your words and ideas--and eventually you will master the art of aggressive instruction: keeping the reader focused with anaphora, emphasizing a point with an expletive, explaining to him with a metaphor or simile, organizing your work in his mind with metabasis, answering his queries with hypophora or procatalepsis, balancing possibilities with antithesis. You will also have gone a long way toward fulfilling the four requirements mentioned at the beginning: the devices of decoration and variety will help make your reader pay attention, the devices of organization and clarification will help him understand your points, the devices of association and some like procatalepsis will help him believe you, and the devices of emphasis, association, beauty, and organization will help him remember.
+
+## Resources
+
+Of course, I modestly recommend my book, <em>Writing with Clarity and Style</em>, that contains more than 60 of the devices discussed below, and many sidebars on style and writing effectiveness. Get it from the publisher at [123Writing.com](https://www.123writing.com/) or get a copy from Amazon.com here: [Writing With Clarity and Style](https://www.amazon.com/gp/product/1884585485?ie=UTF8&tag=virtualsalt-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=1884585485).
+
+If you want a relatively inexpensive book that through a rather dramatic coincidence includes more than half of the devices described here (and none of the many others not described here), and covers many of the same points, Amazon.com has Rhetorical Devices: A Handbook and Activities for Student Writers.
+
+For really serious students of rhetoric and style, I recommend Classical Rhetoric for the Modern Student by Edward P. J. Corbett and Robert J. Connors, now in its fourth edition. It's the standard and covers aspects of style as well as the tropes. 
+
+While you are reading over these rhetoric pages or one of the resources above, why not enjoy something made from a recipe on our sister site, VirtualTeaTime. 

@@ -1,0 +1,24 @@
+---
+layout: default
+title: A Handbook of Rhetorical Devices
+---
+
+<div class="introduction">
+  <p>This book contains definitions and examples of more than sixty traditional rhetorical devices, (including rhetorical tropes and rhetorical figures) all of which can still be useful today to improve the effectiveness, clarity, and enjoyment of your writing. Note: This book was written in 1980, with some changes since. The devices presented are not in alphabetical order. To go directly to the discussion of a particular device, click on the name below. If you know these already, go directly to the <a href="https://virtualsalt.com/rhetoric.htm#Self">Self Test</a>. To learn about my book, <em>Writing with Clarity and Style</em>, see the <a href="https://virtualsalt.com/wcsad.htm">Advertisement</a>.</p>
+</div>
+
+<hr>
+
+<div class="toc">
+  <h2>Static Text</h2>
+  <ul class="texts">
+  {% for item in site.texts %}
+  
+    <li class="text-title">
+      <a href="{{ site.baseurl }}{{ item.url }}">
+        {{ item.title }}
+      </a>
+    </li>
+  {% endfor %}
+  </ul>
+</div>
