@@ -6,6 +6,7 @@ layout: figure
  - The orders came directly from the White House.
 
 In this example we know that the writer means the President issued the orders, because "White House" is quite closely associated with "President," even though it is not physically a part of him. Consider these substitutions, and notice that some are more obvious than others, but that in context all are clear:
+
  - You can't fight city hall.
  - This land belongs to the crown.
  - In the sweat of thy face shalt thou eat bread... --Genesis 3:19

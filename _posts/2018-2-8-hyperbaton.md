@@ -7,14 +7,17 @@ layout: figure
  - From his seat on the bench he saw the girl content-content with the promise that she could ride on the train again next week.
  
 But the delayed epithet can also be used by itself, though in only a relatively few cases:
+
  - She had a personality indescribable.
  - His was a countenance sad.
 
 Some rhetoricians condemn delayed epithet altogether in formal writing because of its potential for abuse. Each case must be tested carefully, to make sure it does not sound too poetic:
+
  - His was a countenance friendly.
  - These are rumors strange.
 
 And especially make sure the phrase is not affected, offensive, or even disgusting:
+
  - Welcome to our home comfortable.
  - That is a story amazing.
 
@@ -27,9 +30,11 @@ A similar form of inversion we might call _divided epithets_. Here two adjective
  - So many pages will require a longer staple, heavy-duty style.
  
 Another form of hyperbaton involves the separation of words normally belonging together, done for effect or convenience:
+
  - In this room there sit twenty (though I will not name them) distinguished people.
 
 You can emphasize a verb by putting it at the end of the sentence:
+
  - We will not, from this house, under any circumstances, be evicted.
  - Sandy, after a long struggle, all the way across the lake, finally swam to shore.
 

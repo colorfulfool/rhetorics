@@ -11,6 +11,7 @@ layout: figure
  - She's bright, well-read, and personable--to say nothing of her modesty and generosity.
 
 Does the first example above make you feel a little uneasy? That can be a clue to the legitimacy (or lack of it) of usage. If apophasis is employed to bring in irrelevant statements while it supplies a screen to hide behind, then it is not being used rightly:
+
  - I pass over the fact that Jenkins beats his wife, is an alcoholic, and sells dope to kids, because we will not allow personal matters to enter into our political discussion.
  - I do not mean to suggest that Mr. Gates is mainly responsible for the inefficiency and work blockage in this office, just because the paperwork goes through him....
 

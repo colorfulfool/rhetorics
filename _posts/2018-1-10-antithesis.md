@@ -9,6 +9,7 @@ layout: figure
  - That's one small step for a man, one giant leap for mankind. --Neil Armstrong
 
 Antithesis can convey some sense of complexity in a person or idea by admitting opposite or nearly opposite truths:
+
  - Though surprising, it is true; though frightening at first, it is really harmless.
  - If we try, we might succeed; if we do not try, we cannot succeed.
  - Success makes men proud; failure makes them wise.

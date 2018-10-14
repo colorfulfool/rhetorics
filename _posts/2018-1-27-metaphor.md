@@ -11,6 +11,7 @@ Affliction then is ours; / We are the trees whom shaking fastens more. --George 
  - The mind is but a barren soil; a soil which is soon exhausted and will produce no crop, or only one, unless it be continually fertilized and enriched with foreign matter. --Joshua Reynolds
 
 Just as frequently, though, the comparison is clear enough that the _a-is-b_form is not necessary:
+
  - The fountain of knowledge will dry up unless it is continuously replenished by streams of new learning.
  - This first beam of hope that had ever darted into his mind rekindled youth in his cheeks and doubled the lustre of his eyes. --Samuel Johnson
  - I wonder when motor mouth is going to run out of gas.
@@ -20,6 +21,7 @@ Just as frequently, though, the comparison is clear enough that the _a-is-b_form
  - The furnace of affliction had softened his heart and purified his soul.
 
 Compare the different degrees of direct identification between tenor and vehicle. There is fully expressed:
+
  - Your eye is the lamp of your body; when your eye is sound, your whole body is full of light; but when it is not sound, your body is full of darkness. --Luke 11:34 (RSV)
 
 Here, the comparison, "the eye is a lamp," is declared directly, and the point of similarity is spelled out.
