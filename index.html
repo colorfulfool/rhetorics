@@ -15,9 +15,10 @@ pagination:
 <!-- {% include table.html %} -->
 
 {% for item in paginator.posts %}
-  <div class="content figure__content">
+  <div class="figure__content">
     {{ item.content }}
   </div>
+  <div class="figure__separator">***</div>
 {% endfor %}
 
 {% include pagination.html %}

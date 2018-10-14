@@ -15,4 +15,14 @@
     
     ul { list-style: disc; }
   }
+  
+  &__separator {
+    line-height: 4rem;
+    
+    color: #ddd;
+    
+    font-size: 25px;
+    letter-spacing: 20px;
+    text-align: center;
+  }
 }
