@@ -26,7 +26,7 @@ Practice these; try them out. Do not worry if they sometimes ring false at first
 
 ## Resources
 
-Of course, I modestly recommend my book, <em>Writing with Clarity and Style</em>, that contains more than 60 of the devices discussed below, and many sidebars on style and writing effectiveness. Get it from the publisher at [123Writing.com](https://www.123writing.com/) or get a copy from Amazon.com here: [Writing With Clarity and Style](https://www.amazon.com/gp/product/1884585485?ie=UTF8&tag=virtualsalt-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=1884585485).
+Of course, I modestly recommend my book, <em>Writing with Clarity and Style</em>, that contains more than 60 of the devices discussed below, and many sidebars on style and writing effectiveness. Get it from the publisher at [123Writing.com](https://www.123writing.com/) or get a copy from Amazon.com here: [Writing With Clarity and Style]({{ site.amazon_url }}).
 
 If you want a relatively inexpensive book that through a rather dramatic coincidence includes more than half of the devices described here (and none of the many others not described here), and covers many of the same points, Amazon.com has Rhetorical Devices: A Handbook and Activities for Student Writers.
 
