@@ -5,7 +5,7 @@ layout: figure
 **Hyperbaton** includes several rhetorical devices involving departure from normal word order. One device, a form of inversion, might be called _delayed_ epithet, since the adjective follows the noun. If you want to amplify the adjective, the inversion is very useful:
 
  - From his seat on the bench he saw the girl content-content with the promise that she could ride on the train again next week.
- 
+
 But the delayed epithet can also be used by itself, though in only a relatively few cases:
 
  - She had a personality indescribable.
@@ -28,7 +28,7 @@ A similar form of inversion we might call _divided epithets_. Here two adjective
  - It was a long operation but successful.
  - Let's go on a cooler day and less busy.
  - So many pages will require a longer staple, heavy-duty style.
- 
+
 Another form of hyperbaton involves the separation of words normally belonging together, done for effect or convenience:
 
  - In this room there sit twenty (though I will not name them) distinguished people.

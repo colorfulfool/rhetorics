@@ -6,7 +6,7 @@ layout: figure
 
  - Someone yelled, "Look out!" and I heard the skidding of tires and the horrible noise of bending metal and breaking glass.
  - Someone yelled "Look out!" and I heard a loud screech followed by a grinding, wrenching crash.
- 
+
 Onomatopoeia can produce a lively sentence, adding a kind of flavoring by its sound effects:
 
 The flies buzzing and whizzing around their ears kept them from finishing the experiment at the swamp.

@@ -41,13 +41,13 @@ Here, the comparison, "God is a bird [or hen]" is only implied. Stating the meta
 And there is very implied:
 
  - For if men do these things when the tree is green what will happen when it is dry? --Luke 23:31 (NIV)
- 
+
 Here the comparison is something like "a prosperous time [or freedom from persecution] is a green [flourishing, healthy] tree." And the other half of the metaphor is that "a time of persecution or lack of prosperity is a dry [unhealthy, dead(?)] tree." So the rhetorical question is, "If men do these [bad] things during times of prosperity, what will they do when persecution or their own suffering arrives?"
 
 Like simile and analogy, metaphor is a profoundly important and useful device. Aristotle says in his Rhetoric, "It is metaphor above all else that gives clearness, charm, and distinction to the style." And Joseph Addison says of it:
 
  - By these allusions a truth in the understanding is as it were reflected by the imagination; we are able to see something like color and shape in a notion, and to discover a scheme of thoughts traced out upon matter. And here the mind receives a great deal of satisfaction, and has two of its faculties gratified at the same time, while the fancy is busy in copying after the understanding, and transcribing ideas out of the intellectual world into the material.
- 
+
 So a metaphor not only explains by making the abstract or unknown concrete and familiar, but it also enlivens by touching the reader's imagination. Further, it affirms one more interconnection in the unity of all things by showing a relationship between things seemingly alien to each other.
 
 And the fact that two very unlike things can be equated or referred to in terms of one another comments upon them both. No metaphor is "just a metaphor." All have significant implications, and they must be chosen carefully, especially in regard to the connotations the vehicle (image) will transfer to the tenor. Consider, for example, the differences in meaning conveyed by these statements:

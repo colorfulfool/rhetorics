@@ -6,4 +6,4 @@ layout: figure
 
  - We heard it with our own ears.
  - That statement is wrong, incorrect, and not true at all in any way, shape, or form.  
-  - And lifting up their eyes, they saw no one, except Jesus Himself alone. --Matthew 17:8
+ - And lifting up their eyes, they saw no one, except Jesus Himself alone. --Matthew 17:8

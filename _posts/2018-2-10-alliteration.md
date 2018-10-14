@@ -7,7 +7,7 @@ layout: figure
  - Ah, what a delicious day!
  - Yes, I have read that little bundle of pernicious prose, but I have no comment to make upon it.
  - Done well, alliteration is a satisfying sensation.
- 
+
 This two-word alliteration calls attention to the phrase and fixes it in the reader's mind, and so is useful for emphasis as well as art. Often, though, several words not next to each other are alliterated in a sentence. Here the use is more artistic. And note in the second example how wonderfully alliteration combines with antithesis:
 
  - I shall delight to hear the ocean roar, or see the stars twinkle, in the company of men to whom Nature does not spread her volumes or utter her voice in vain. --Samuel Johnson

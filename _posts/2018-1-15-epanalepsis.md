@@ -6,7 +6,7 @@ layout: figure
 
  - Water alone dug this giant canyon; yes, just plain water.
  - To report that your committee is still investigating the matter is to tell me that you have nothing to report.
- 
+
 Many writers use epanalepsis in a kind of "yes, but" construction to cite common ground or admit a truth and then to show how that truth relates to a more important context:
 
  - Our eyes saw it, but we could not believe our eyes.

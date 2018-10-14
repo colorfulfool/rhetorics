@@ -9,7 +9,7 @@ layout: figure
 One way to write catachresis is to substitute an associated idea for the intended one (as Hamlet did, using "daggers" instead of "angry words"):
 
  - "It's a dentured lake," he said, pointing at the dam. "Break a tooth out of that grin and she will spit all the way to Duganville."
- 
+
 Sometimes you can substitute a noun for a verb or a verb for a noun, a noun for an adjective, and so on. The key is to be effective rather than abysmal. I am not sure which classification these examples fit into:
 
  - The little old lady turtled along at ten miles per hour.

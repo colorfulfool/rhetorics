@@ -8,7 +8,7 @@ layout: figure
 - But the lake was not, in fact, drained before April.
 
 In the second sentence, the words not and drained are naturally stressed by the speaker or reader in order to keep the thought in mind while entertaining the interruption.  
- 
+
 Sentential adverbs are most frequently placed near the beginning of a sentence, where important material has been placed:
 
 - All truth is not, indeed, of equal importance; but if little violations are allowed, every violation will in time be thought little. --Samuel Johnson
