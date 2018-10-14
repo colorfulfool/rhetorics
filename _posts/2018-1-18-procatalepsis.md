@@ -2,7 +2,7 @@
 layout: figure
 ---
 
-**Procatalepsis** , by anticipating an objection and answering it, permits an argument to continue moving forward while taking into account points or reasons opposing either the train of thought or its final conclusions. Often the objections are standard ones:
+**Procatalepsis**, by anticipating an objection and answering it, permits an argument to continue moving forward while taking into account points or reasons opposing either the train of thought or its final conclusions. Often the objections are standard ones:
 
  - It is usually argued at this point that if the government gets out of the mail delivery business, small towns like Podunk will not have any mail service. The answer to this can be found in the history of the Pony Express...
  - To discuss trivialities in an exalted style is, as the saying is, like beautifying a pestle. Yet some people say we should discourse in the grand manner on trivialities and they think that this is a proof of outstanding oratorical talent. Now I admit that Polycrates [did this]. But he was doing this in jest, . - . and the dignified tone of the whole work was itself a game. Let us be playful... [but] also observe what is fitting in each case... --Demetrius
