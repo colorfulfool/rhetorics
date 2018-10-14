@@ -14,6 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: A Handbook of Rhetorical Devices
+author: Robert A. Harris
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   More than sixty traditional rhetorical devices, all of which can still be useful today to improve the effectiveness, clarity, and enjoyment of your writing.
