@@ -7,10 +7,12 @@ layout: figure
  - To err is human; to forgive, divine. --Pope
  - That short and easy trip made a lasting and profound change in Harold's outlook.
  - That's one small step for a man, one giant leap for mankind. --Neil Armstrong
+
 Antithesis can convey some sense of complexity in a person or idea by admitting opposite or nearly opposite truths:
  - Though surprising, it is true; though frightening at first, it is really harmless.
  - If we try, we might succeed; if we do not try, we cannot succeed.
  - Success makes men proud; failure makes them wise.
+
 Antithesis, because of its close juxtaposition and intentional
 
 contrast of two terms or ideas, is also very useful for making relatively fine distinctions or for clarifying differences which might be otherwise overlooked by a careless thinker or casual reader:

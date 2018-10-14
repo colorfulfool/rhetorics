@@ -8,10 +8,13 @@ layout: figure
  - The chief thing to look for in impact sockets is hardness; no, not so much hardness as resistance to shock and shattering.
  - And if I am still far from the goal, the fault is my own for not paying heed to the reminders--nay, the virtual directions--which I have had from above. --Marcus Aurelius
  - Even a blind man can see, as the saying is, that poetic language gives a certain grandeur to prose, except that some writers imitate the poets quite openly, or rather they do not so much imitate them as transpose their words into their own work, as Herodotus does. --Demetrius
+
 Metanoia can be used to coax the reader into expanding his belief or comprehension by moving from modest to bold:
  - These new textbooks will genuinely improve the lives of our children, or rather the children of the whole district.
+
 Or it can be used to tone down and qualify an excessive outburst (while, of course, retaining the outburst for good effect):
  - While the crack widens and the cliff every minute comes closer to crashing down around our ears, the bureaucrats are just standing by twiddling their thumbs--or at least they have been singularly unresponsive to our appeals for action.
+
 The most common word in the past for invoking metanoia was "nay," but this word is quickly falling out of the language and even now would probably sound a bit strange if you used it. So you should probably substitute "no" for it. Other words and phrases useful for this device include these: rather, at least, let us say, I should say, I mean, to be more exact, or better, or rather, or maybe. When you use one of the "or" phrases (or rather, or to be more exact), a comma is fine preceding the device; when you use just "no," I think a dash is most effective.
 
 
@@ -20,6 +23,7 @@ The most common word in the past for invoking metanoia was "nay," but this word 
 
  - I am not sure whether to side with those who say that higher taxes reduce inflation or with those who say that higher taxes increase inflation.
  - I have never been able to decide whether I really approve of dress codes, because extremism seems to reign both with them and without them.
+
 Such a statement of uncertainty can tie off a piece of discussion you do not have time to pursue, or it could begin an examination of the issue, and lead you into a conclusion resolving your doubt.
 
 Aporia can also dismiss assertions irrelevant to your discussion without either conceding or denying them:
