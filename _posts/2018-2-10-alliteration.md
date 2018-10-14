@@ -2,7 +2,7 @@
 layout: figure
 ---
 
-**Alliteration**is the recurrence of initial consonant sounds. The repetition can be juxtaposed (and then it is usually limited to two words):
+**Alliteration** is the recurrence of initial consonant sounds. The repetition can be juxtaposed (and then it is usually limited to two words):
 
  - Ah, what a delicious day!
  - Yes, I have read that little bundle of pernicious prose, but I have no comment to make upon it.

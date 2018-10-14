@@ -2,7 +2,7 @@
 layout: figure
 ---
 
-**Exemplum**:citing an example; using an illustrative story, either true or fictitious:
+**Exemplum**: citing an example; using an illustrative story, either true or fictitious:
 
  - Let me give you an example. In the early 1920's in Germany, the government let the printing presses turn out endless quantities of paper money, and soon, instead of 50-pfennige postage stamps, denominations up to 50 billion marks were being issued.
  

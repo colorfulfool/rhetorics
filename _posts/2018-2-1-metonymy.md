@@ -2,7 +2,7 @@
 layout: figure
 ---
 
-**Metonymy**is another form of metaphor, very similar to synecdoche (and, in fact, some rhetoricians do not distinguish between the two), in which the thing chosen for the metaphorical image is closely associated with (but not an actual part of) the subject with which it is to be compared.
+**Metonymy** is another form of metaphor, very similar to synecdoche (and, in fact, some rhetoricians do not distinguish between the two), in which the thing chosen for the metaphorical image is closely associated with (but not an actual part of) the subject with which it is to be compared.
  - The orders came directly from the White House.
 In this example we know that the writer means the President issued the orders, because "White House" is quite closely associated with "President," even though it is not physically a part of him. Consider these substitutions, and notice that some are more obvious than others, but that in context all are clear:
  - You can't fight city hall.

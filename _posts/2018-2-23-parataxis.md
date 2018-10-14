@@ -2,7 +2,7 @@
 layout: figure
 ---
 
-**Parataxis**:writing successive independent clauses, with coordinating conjunctions, or no conjunctions:
+**Parataxis**: writing successive independent clauses, with coordinating conjunctions, or no conjunctions:
 
  - We walked to the top of the hill, and we sat down.
  - In the beginning God created the heaven and the earth. And the earth was without form and void; and darkness was upon the face of the deep. And the Spirit of God moved upon the face of the waters. --Genesis 1:1-2 (KJV)

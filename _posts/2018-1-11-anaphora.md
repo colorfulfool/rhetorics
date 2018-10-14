@@ -2,7 +2,7 @@
 layout: figure
 ---
 
-**Anaphora**is the repetition of the same word or words at the beginning of successive phrases, clauses, or sentences, commonly in conjunction with climax and with parallelism:
+**Anaphora** is the repetition of the same word or words at the beginning of successive phrases, clauses, or sentences, commonly in conjunction with climax and with parallelism:
  - To think on death it is a misery,/ To think on life it is a vanity;/ To think on the world verily it is,/ To think that here man hath no perfect bliss. --Peacham
  - In books I find the dead as if they were alive; in books I foresee things to come; in books warlike affairs are set forth; from books come forth the laws of peace. --Richard de Bury
  - Finally, we must consider what pleasantness of teaching there is in books, how easy, how secret! How safely we lay bare the poverty of human ignorance to books without feeling any shame! --Ibid.

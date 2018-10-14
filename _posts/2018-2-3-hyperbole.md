@@ -2,7 +2,7 @@
 layout: figure
 ---
 
-**Hyperbole**,the counterpart of understatement, deliberately exaggerates conditions for emphasis or effect. In formal writing the hyperbole must be clearly intended as an exaggeration, and should be carefully restricted. That is, do not exaggerate everything, but treat hyperbole like an exclamation point, to be used only once a year. Then it will be quite effective as a table-thumping attention getter, introductory to your essay or some section thereof:
+**Hyperbole** ,the counterpart of understatement, deliberately exaggerates conditions for emphasis or effect. In formal writing the hyperbole must be clearly intended as an exaggeration, and should be carefully restricted. That is, do not exaggerate everything, but treat hyperbole like an exclamation point, to be used only once a year. Then it will be quite effective as a table-thumping attention getter, introductory to your essay or some section thereof:
  
  - There are a thousand reasons why more research is needed on solar energy.
  

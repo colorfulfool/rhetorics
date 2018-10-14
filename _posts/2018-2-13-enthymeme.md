@@ -2,7 +2,7 @@
 layout: figure
 ---
 
-**Enthymeme**is an informally-stated syllogism which omits either one of the premises or the conclusion. The omitted part must be clearly understood by the reader. The usual form of this logical shorthand omits the major premise:
+**Enthymeme** is an informally-stated syllogism which omits either one of the premises or the conclusion. The omitted part must be clearly understood by the reader. The usual form of this logical shorthand omits the major premise:
 
  - Since your application was submitted before April 10th, it will be considered. [Omitted premise: All applications submitted before April 10 will be considered.]
  - He is an American citizen, so he is entitled to due process. [All American citizens are entitled to due process.]

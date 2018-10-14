@@ -2,7 +2,7 @@
 layout: figure
 ---
 
-**Hyperbaton**includes several rhetorical devices involving departure from normal word order. One device, a form of inversion, might be called _delayed_ epithet, since the adjective follows the noun. If you want to amplify the adjective, the inversion is very useful:
+**Hyperbaton** includes several rhetorical devices involving departure from normal word order. One device, a form of inversion, might be called _delayed_ epithet, since the adjective follows the noun. If you want to amplify the adjective, the inversion is very useful:
 
  - From his seat on the bench he saw the girl content-content with the promise that she could ride on the train again next week.
  

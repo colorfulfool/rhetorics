@@ -2,7 +2,7 @@
 layout: figure
 ---
 
-**Oxymoron**is a paradox reduced to two words, usually in an adjective-noun ("eloquent silence") or adverb-adjective ("inertly strong") relationship, and is used for effect, complexity, emphasis, or wit:
+**Oxymoron** is a paradox reduced to two words, usually in an adjective-noun ("eloquent silence") or adverb-adjective ("inertly strong") relationship, and is used for effect, complexity, emphasis, or wit:
 
  - I do here make humbly bold to present them with a short account of themselves and their art...--Jonathan Swift
  - The bookful blockhead, ignorantly read, / With loads of learned lumber in his head...--Alexander Pope

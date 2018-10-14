@@ -2,7 +2,7 @@
 layout: figure
 ---
 
-**Metanoia**(correctio) qualifies a statement by recalling it (or part of it) and expressing it in a better, milder, or stronger way. A negative is often used to do the recalling:
+**Metanoia** (correctio) qualifies a statement by recalling it (or part of it) and expressing it in a better, milder, or stronger way. A negative is often used to do the recalling:
 
  - Fido was the friendliest of all St. Bernards, nay of all dogs.
  - The chief thing to look for in impact sockets is hardness; no, not so much hardness as resistance to shock and shattering.
@@ -16,7 +16,7 @@ The most common word in the past for invoking metanoia was "nay," but this word 
 
 
 
-**24.**  **Aporia** expresses doubt about an idea or conclusion. Among its several uses are the suggesting of alternatives without making a commitment to either or any:
+**24.**  ** Aporia** expresses doubt about an idea or conclusion. Among its several uses are the suggesting of alternatives without making a commitment to either or any:
 
  - I am not sure whether to side with those who say that higher taxes reduce inflation or with those who say that higher taxes increase inflation.
  - I have never been able to decide whether I really approve of dress codes, because extremism seems to reign both with them and without them.
