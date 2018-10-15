@@ -27,4 +27,3 @@ At other times the effect is more subdued but still desirable. Compare the versi
 
 Chiasmus may be useful for those sentences in which you want balance, but which cannot be paralleled effectively, either because they are too short, or because the emphasis is placed on the wrong words. And sometimes a chiastic structure will just seem to "work" when a parallel one will not.  
 
-[![](https://media.go2speed.org/brand/files/ereflect/6/uv728x90.png)](https://products.ereflect.com/aff_c?offer_id=6&aff_id=1032&file_id=250)
