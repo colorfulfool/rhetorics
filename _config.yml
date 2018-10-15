@@ -31,10 +31,9 @@ remote_theme: minicomp/ed
 
 plugins:
   - jekyll-feed
-  - jekyll-paginate-v2
+  - jekyll-paginate
   
-pagination: 
-  enabled: true
+paginate: 7
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
