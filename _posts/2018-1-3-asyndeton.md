@@ -9,12 +9,15 @@ layout: figure
 The lack of the "and" conjunction gives the impression that the list is perhaps not complete. Compare:
 - She likes pickles, olives, raisins, dates, pretzels.
 - She likes pickles, olives, raisins, dates, and pretzels.
+
 Sometimes an asyndetic list is useful for the strong and direct climactic effect it has, much more emphatic than if a final conjunction were used. Compare:
 - They spent the day wondering, searching, thinking, understanding.
 - They spent the day wondering, searching, thinking, and understanding.
+
 In certain cases, the omission of a conjunction between short phrases gives the impression of synonymity to the phrases, or makes the latter phrase appear to be an afterthought or even a substitute for the former. Compare:
 - He was a winner, a hero.
 - He was a winner and a hero.
+
 Notice also the degree of spontaneity granted in some cases by asyndetic usage. "The moist, rich, fertile soil," appears more natural and spontaneous than "the moist, rich, and fertile soil."
 
 Generally, asyndeton offers the feeling of speed and concision to lists and phrases and clauses, but occasionally the effect cannot be so easily categorized. Consider the "flavor" of these examples:
