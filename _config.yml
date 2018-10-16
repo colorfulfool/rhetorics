@@ -20,8 +20,10 @@ amazon_url: https://www.amazon.com/gp/product/1884585485?ie=UTF8&tag=virtualsalt
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   More than sixty traditional rhetorical devices, all of which can still be useful today to improve the effectiveness, clarity, and enjoyment of your writing.
+  
 baseurl: "/virtualsaltrhetorics" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
+permalink: /:categories/:title:output_ext
 
 # Build settings
 markdown: kramdown
