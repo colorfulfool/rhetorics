@@ -2,7 +2,7 @@
 layout: figure
 ---
 
-**Metaphor** compares two different things by speaking of one in terms of the other. Unlike a simile or analogy, metaphor asserts that one thing _is_another thing, not just that one is like another. Very frequently a metaphor is invoked by the _to be_ verb:
+**Metaphor** compares two different things by speaking of one in terms of the other. Unlike a simile or analogy, metaphor asserts that one thing _is_ another thing, not just that one is like another. Very frequently a metaphor is invoked by the _to be_ verb:
 
 Affliction then is ours; / We are the trees whom shaking fastens more. --George Herbert
 
