@@ -1,0 +1,4 @@
+{% assign sortedPosts = site.posts | sort: 'title' %}
+{% for item in sortedPosts %}
+  <a class="sidebar-nav-item{% if page.url == item.url %} active{% endif %}" href="{{ site.baseurl }}{{ item.url }}">{{ item.title }}</a>
+{% endfor %}
