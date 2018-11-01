@@ -1,7 +1,3 @@
----
-layout: figure
----
-
 **Hypophora** consists of raising one or more questions and then proceeding to answer them, usually at some length. A common usage is to ask the question at the beginning of a paragraph and then use that paragraph to answer it:
 
  - There is a striking and basic difference between a man's ability to imagine something and an animal's failure.... Where is it that the animal falls short? We get a clue to the answer, I think, when Hunter tells us... --Jacob Bronowski

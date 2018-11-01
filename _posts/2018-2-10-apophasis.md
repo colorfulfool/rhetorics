@@ -1,7 +1,3 @@
----
-layout: figure
----
-
 **Apophasis** (also called praeteritio or occupatio) asserts or emphasizes something by pointedly seeming to pass over, ignore, or deny it. This device has both legitimate and illegitimate uses. Legitimately, a writer uses it to call attention to sensitive or inflammatory facts or statements while he remains apparently detached from them:
 
  - We will not bring up the matter of the budget deficit here, or how programs like the one under consideration have nearly pushed us into bankruptcy, because other reasons clearly enough show...

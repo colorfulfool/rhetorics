@@ -1,7 +1,3 @@
----
-layout: figure
----
-
 **A Sentential Adverb** is a single word or short phrase, usually interrupting normal syntax, used to lend emphasis to the words immediately proximate to the adverb. (We emphasize the words on each side of a pause or interruption in order to maintain continuity of the thought.) Compare:
 
 - But the lake was not drained before April.

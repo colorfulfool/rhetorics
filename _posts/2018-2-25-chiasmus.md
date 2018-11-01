@@ -1,7 +1,3 @@
----
-layout: figure
----
-
 **Chiasmus** might be called "reverse parallelism," since the second part of a grammatical construction is balanced or paralleled by the first part, only in reverse order. Instead of an A,B structure (e.g., "learned unwillingly") paralleled by another A,B structure ("forgotten gladly"), the A,B will be followed by B,A ("gladly forgotten"). So instead of writing, "What is learned unwillingly is forgotten gladly," you could write, "What is learned unwillingly is gladly forgotten." Similarly, the parallel sentence, "What is now great was at first little," could be written chiastically as, "What is now great was little at first." Here are some examples:
 
  - He labors without complaining and without bragging rests.

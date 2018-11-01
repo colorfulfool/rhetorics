@@ -1,7 +1,3 @@
----
-layout: figure
----
-
 **Epizeuxis**: repetition of one word (for emphasis):
 
  - The best way to describe this portion of South America is lush, lush, lush.

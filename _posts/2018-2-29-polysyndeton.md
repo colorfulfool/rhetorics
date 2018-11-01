@@ -1,7 +1,3 @@
----
-layout: figure
----
-
 **Polysyndeton** is the use of a conjunction between each word, phrase, or clause, and is thus structurally the opposite of asyndeton. The rhetorical effect of polysyndeton, however, often shares with that of asyndeton a feeling of multiplicity, energetic enumeration, and building up.
 
 - They read and studied and wrote and drilled. I laughed and played and talked and flunked.

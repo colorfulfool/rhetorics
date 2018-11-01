@@ -1,7 +1,3 @@
----
-layout: figure
----
-
 **Allusion** is a short, informal reference to a famous person or event:
 
  - You must borrow me Gargantua's mouth first. 'Tis a word too great for any mouth of this age's size. --Shakespeare

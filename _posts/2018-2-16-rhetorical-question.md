@@ -1,7 +1,3 @@
----
-layout: figure
----
-
 **Rhetorical question** (erotesis) differs from hypophora in that it is not answered by the writer, because its answer is obvious or obviously desired, and usually just a yes or no. It is used for effect, emphasis, or provocation, or for drawing a conclusionary statement from the facts at hand.
 
  - But how can we expect to enjoy the scenery when the scenery consists entirely of garish billboards?

@@ -1,7 +1,3 @@
----
-layout: figure
----
-
 **Enumeratio**: detailing parts, causes, effects, or consequences to make a point more forcibly:
 
  - I love her eyes, her hair, her nose, her cheeks, her lips [etc.].

@@ -1,7 +1,3 @@
----
-layout: figure
----
-
 **Parataxis**: writing successive independent clauses, with coordinating conjunctions, or no conjunctions:
 
  - We walked to the top of the hill, and we sat down.

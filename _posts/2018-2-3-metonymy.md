@@ -1,7 +1,3 @@
----
-layout: figure
----
-
 **Metonymy** is another form of metaphor, very similar to synecdoche (and, in fact, some rhetoricians do not distinguish between the two), in which the thing chosen for the metaphorical image is closely associated with (but not an actual part of) the subject with which it is to be compared.
  - The orders came directly from the White House.
 

@@ -1,7 +1,3 @@
----
-layout: figure
----
-
 **Epanalepsis** repeats the beginning word of a clause or sentence at the end. The beginning and the end are the two positions of strongest emphasis in a sentence, so by having the same word in both places, you call special attention to it:
 
  - Water alone dug this giant canyon; yes, just plain water.

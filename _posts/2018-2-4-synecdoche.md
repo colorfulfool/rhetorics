@@ -1,7 +1,3 @@
----
-layout: figure
----
-
 **Synecdoche** is a type of metaphor in which the part stands for the whole, the whole for a part, the genus for the species, the species for the genus, the material for the thing made, or in short, any portion, section, or main quality for the whole or the thing itself (or vice versa).
 
  - Farmer Jones has two hundred head of cattle and three hired hands.

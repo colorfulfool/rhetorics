@@ -1,7 +1,3 @@
----
-layout: figure
----
-
 **Anadiplosis** repeats the last word of one phrase, clause, or sentence at or very near the beginning of the next. it can be generated in series for the sake of beauty or to give a sense of logical progression:
 
  - Pleasure might cause her read, reading might make her know,/ Knowledge might pity win, and pity grace obtain... --Philip Sidney

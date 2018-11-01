@@ -1,7 +1,3 @@
----
-layout: figure
----
-
 **Metabasis** consists of a brief statement of what has been said and what will follow. It might be called a linking, running, or transitional summary, whose function is to keep the discussion ordered and clear in its progress:
 
  - Such, then, would be my diagnosis of the present condition of art. I must now, by special request, say what I think will happen to art in the future. --Kenneth Clark

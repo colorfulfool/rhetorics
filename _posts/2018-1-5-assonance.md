@@ -1,7 +1,3 @@
----
-layout: figure
----
-
 **Assonance**: similar vowel sounds repeated in successive or proximate words containing different consonants:
 
  - A city that is set on a hill cannot be hid. --Matthew 5:14b (KJV)

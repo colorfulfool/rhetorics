@@ -1,7 +1,3 @@
----
-layout: figure
----
-
 **Catachresis** is an extravagant, implied metaphor using words in an alien or unusual way. While difficult to invent, it can be wonderfully effective:
 
  - I will speak daggers to her. --_Hamlet_[In a more futuristic metaphor, we might say, "I will laser-tongue her." Or as a more romantic student suggested, "I will speak flowers to her."]

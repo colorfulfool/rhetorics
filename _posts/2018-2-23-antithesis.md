@@ -1,7 +1,3 @@
----
-layout: figure
----
-
 **Antithesis** establishes a clear, contrasting relationship between two ideas by joining them together or juxtaposing them, often in parallel structure. Human beings are inveterate systematizers and categorizers, so the mind has a natural love for antithesis, which creates a definite and systematic relationship between ideas:
 
  - To err is human; to forgive, divine. --Pope

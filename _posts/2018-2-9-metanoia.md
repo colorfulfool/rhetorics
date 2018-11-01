@@ -1,7 +1,3 @@
----
-layout: figure
----
-
 **Metanoia** (correctio) qualifies a statement by recalling it (or part of it) and expressing it in a better, milder, or stronger way. A negative is often used to do the recalling:
 
  - Fido was the friendliest of all St. Bernards, nay of all dogs.

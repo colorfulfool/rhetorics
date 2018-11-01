@@ -1,7 +1,3 @@
----
-layout: figure
----
-
 **Parenthesis** ,a final form of hyperbaton, consists of a word, phrase, or whole sentence inserted as an aside in the middle of another sentence:
 
  - But the new calculations--and here we see the value of relying upon up-to-date information--showed that man-powered flight was possible with this design.

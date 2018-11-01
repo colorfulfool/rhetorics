@@ -1,7 +1,3 @@
----
-layout: figure
----
-
 **Dirimens Copulatio**: mentioning a balancing or opposing fact to prevent the argument from being one-sided or unqualified:
 
  - This car is extremely sturdy and durable. It's low maintenance; things never go wrong with it. Of course, if you abuse it, it will break.

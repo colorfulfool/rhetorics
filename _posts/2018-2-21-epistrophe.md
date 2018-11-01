@@ -1,7 +1,3 @@
----
-layout: figure
----
-
 **Epistrophe** (also called antistrophe) forms the counterpart to anaphora, because the repetition of the same word or words comes at the end of successive phrases, clauses, or sentences:
 
  - Where affections bear rule, there reason is subdued, honesty is subdued, good will is subdued, and all things else that withstand evil, for ever are subdued. --Wilson

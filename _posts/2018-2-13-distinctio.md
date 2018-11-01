@@ -1,7 +1,3 @@
----
-layout: figure
----
-
 **Distinctio** is an explicit reference to a particular meaning or to the various meanings of a word, in order to remove or prevent ambiguity.
 
  - To make methanol for twenty-five cents a gallon is impossible; by "impossible" I mean currently beyond our technological capabilities.

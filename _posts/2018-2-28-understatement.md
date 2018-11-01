@@ -1,7 +1,3 @@
----
-layout: figure
----
-
 **Understatement** deliberately expresses an idea as less important than it actually is, either for ironic emphasis or for politeness and tact. When the writer's audience can be expected to know the true nature of a fact which might be rather difficult to describe adequately in a brief space, the writer may choose to understate the fact as a means of employing the reader's own powers of description. For example, instead of endeavoring to describe in a few words the horrors and destruction of the 1906 earthquake in San Francisco, a writer might state:
 - The 1906 San Francisco earthquake interrupted business somewhat in the downtown area.
 

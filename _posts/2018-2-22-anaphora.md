@@ -1,7 +1,3 @@
----
-layout: figure
----
-
 **Anaphora** is the repetition of the same word or words at the beginning of successive phrases, clauses, or sentences, commonly in conjunction with climax and with parallelism:
 
  - To think on death it is a misery,/ To think on life it is a vanity;/ To think on the world verily it is,/ To think that here man hath no perfect bliss. --Peacham

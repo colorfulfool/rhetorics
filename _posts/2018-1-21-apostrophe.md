@@ -1,7 +1,3 @@
----
-layout: figure
----
-
 **Apostrophe** interrupts the discussion or discourse and addresses directly a person or personified thing, either present or absent. Its most common purpose in prose is to give vent to or display intense emotion, which can no longer be held back:
 
  - O value of wisdom that fadeth not away with time, virtue ever flourishing, that cleanseth its possessor from all venom! O heavenly gift of the divine bounty, descending from the Father of lights, that thou mayest exalt the rational soul to the very heavens! Thou art the celestial nourishment of the intellect... --Richard de Bury

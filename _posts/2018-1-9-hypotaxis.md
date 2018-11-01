@@ -1,7 +1,3 @@
----
-layout: figure
----
-
 **Hypotaxis**: using subordination to show the relationship between clauses or phrases (and hence the opposite of parataxis):
 
  - They asked the question because they were curious.

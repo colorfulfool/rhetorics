@@ -1,7 +1,3 @@
----
-layout: figure
----
-
 **Parallelism** is recurrent syntactical similarity. Several parts of a sentence or several sentences are expressed similarly to show that the ideas in the parts or sentences are equal in importance. Parallelism also adds balance and rhythm and, most importantly, clarity to the sentence.
 
 Any sentence elements can be paralleled, any number of times (though, of course, excess quickly becomes ridiculous). You might choose parallel subjects with parallel modifiers attached to them:

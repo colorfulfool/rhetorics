@@ -1,7 +1,3 @@
----
-layout: figure
----
-
 **Personification** metaphorically represents an animal or inanimate object as having human attributes--attributes of form, character, feelings, behavior, and so on. Ideas and abstractions can also be personified.
 
  - The ship began to creak and protest as it struggled against the rising sea.

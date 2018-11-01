@@ -1,7 +1,3 @@
----
-layout: figure
----
-
 **Scesis Onomaton** emphasizes an idea by expressing it in a string of generally synonymous phrases or statements. While it should be used carefully, this deliberate and obvious restatement can be quite effective:
 
  - We succeeded, we were victorious, we accomplished the feat!

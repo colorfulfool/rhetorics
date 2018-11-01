@@ -1,7 +1,3 @@
----
-layout: figure
----
-
 **Procatalepsis**, by anticipating an objection and answering it, permits an argument to continue moving forward while taking into account points or reasons opposing either the train of thought or its final conclusions. Often the objections are standard ones:
 
  - It is usually argued at this point that if the government gets out of the mail delivery business, small towns like Podunk will not have any mail service. The answer to this can be found in the history of the Pony Express...

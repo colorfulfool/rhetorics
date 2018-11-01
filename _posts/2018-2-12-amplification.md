@@ -1,7 +1,3 @@
----
-layout: figure
----
-
 **Amplification** involves repeating a word or expression while adding more detail to it, in order to emphasize what might otherwise be passed over. In other words, amplification allows you to call attention to, emphasize, and expand a word or idea to make sure the reader realizes its importance or centrality in the discussion.
 
  - In my hunger after ten days of rigorous dieting I saw visions of ice cream--mountains of creamy, luscious ice cream, dripping with gooey syrup and calories.

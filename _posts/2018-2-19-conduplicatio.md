@@ -1,7 +1,3 @@
----
-layout: figure
----
-
 **Conduplicatio** resembles anadiplosis in the repetition of a preceding word, but it repeats a _key word_ (not just the last word) from a preceding phrase, clause, or sentence, at the beginning of the next.
 
  - If this is the first time duty has moved him to act against his desires, he is a very weak man indeed. Duty should be cultivated and obeyed in spite of its frequent conflict with selfish wishes.

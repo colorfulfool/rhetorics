@@ -1,7 +1,3 @@
----
-layout: figure
----
-
 **Asyndeton** consists of omitting conjunctions between words, phrases, or clauses. In a list of items, asyndeton gives the effect of unpremeditated multiplicity, of an extemporaneous rather than a labored account:
 
 - On his return he received medals, honors, treasures, titles, fame.
